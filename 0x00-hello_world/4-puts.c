@@ -1,10 +1,12 @@
 #include <stdio.h>
-int main(void)
+
 /**
- * main - Entry point
- * Prints some text
+ * Main is point of entry
+ * Prints txt to screen
  * Returns 0
  */
+
+int main(void)
 {
 char words[70] = "\"Programming is like building a multilingual puzzle";
 
