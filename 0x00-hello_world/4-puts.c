@@ -1,11 +1,14 @@
 #include <stdio.h>
 
 /**
- * Main - Prints "\Programming is like building a multilingual puzzle"
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
-void main(void)
+int main(void)
 {
 char words[70] = "\"Programming is like building a multilingual puzzle";
 
 puts(words);
+return (0);
 }
