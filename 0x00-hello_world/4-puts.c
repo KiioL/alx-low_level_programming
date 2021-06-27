@@ -1,15 +1,11 @@
 #include <stdio.h>
 
 /**
- * Main is point of entry
- * Prints txt to screen
- * Returns 0
+ * Main - Prints "\Programming is like building a multilingual puzzle"
  */
-
-int main(void)
+void main(void)
 {
 char words[70] = "\"Programming is like building a multilingual puzzle";
 
 puts(words);
-return (0);
 }
