@@ -1,6 +1,5 @@
 #include <stdio.h>
-int main(void)
-/*
+int main(void)/*
  *main - Entry point
  *Prints some text
  *Returns 0
