@@ -5,7 +5,7 @@
 /**
  * main - Entry Point
  * Prints a random number and validates it
- * Return - Always 0 (success)
+ * return - Always 0 (success)
  */
 int main(void)
 {
@@ -19,7 +19,7 @@ printf("%d is positive\n", n);
 }
 else if (n == 0)
 {
-printf("%d is 0\n", n);
+printf("%d is zero\n", n);
 }
 else if (n < 0)
 {
