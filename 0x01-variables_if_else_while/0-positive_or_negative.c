@@ -5,7 +5,7 @@
 /**
  * main - Entry Point
  * Prints a random number and validates it
- * return - Always 0 (success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
