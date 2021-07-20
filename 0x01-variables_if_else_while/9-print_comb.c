@@ -15,11 +15,12 @@ for (x = 48; x <= 57; x++)
 {
 
 putchar(x);
-if ( x==57 )
+if (x == 57)
 {
 break;
 }
-else {
+else
+{
 putchar(44);
 putchar(32);
 }
