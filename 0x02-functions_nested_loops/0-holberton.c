@@ -5,17 +5,17 @@
 #include <string.h>
 
 /**
- * Main - Entry Point
+ * main - Entry Point
  * Prints Holberton
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-char* name = "Holberton";
+char *name = "Holberton";
 
 int i;
- 
-for(i = 0; i < 9; i++)
+
+for (i = 0; i < 9; i++)
 {
 _putchar(name[i]);
 }
