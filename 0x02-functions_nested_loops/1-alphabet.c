@@ -1,33 +1,20 @@
 #include <stdio.h>
-#include <ctype.h>
-#include <time.h>
 #include "holberton.h"
-#include <string.h>
 
 /**
- * main - Entry Point
- * Prints Holberton
- * Return: Always 0 (Success)
+ * print_alphabet - Entry Point
+ * Prints alphabet
+ * Return: Void
  */
-
-int _putchar(char c)
-{
-  return(write(1,&c,1));
-}
-
 
 void print_alphabet(void)
 {
-char i;
+int i;
 
-for(i = 'a'; i <= 'z'; i++)
+for(i = 97; i <= 122; i++)
 {
 _putchar(i);
 }
 }
 
-int main(void)
-{
-print_alphabet();
-return (0);
-}
+
