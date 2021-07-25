@@ -4,7 +4,7 @@
 /**
  * _islower - Entry Point
  * Prints alphabet
- * Return: c
+ * Return: lowercase version of the parameter
  */
 
 int _islower(int c)
