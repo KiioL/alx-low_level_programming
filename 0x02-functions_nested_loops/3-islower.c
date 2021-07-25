@@ -5,6 +5,7 @@
  * _islower - Entry Point
  * Prints alphabet
  * @c: lowercase version of the parameter
+ * Return: Always 1 or 0 (success or failure)
  */
 
 int _islower(int c)
