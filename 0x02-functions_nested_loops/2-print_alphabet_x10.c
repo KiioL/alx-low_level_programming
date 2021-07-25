@@ -2,7 +2,7 @@
 #include "holberton.h"
 
 /**
- * print_alphabet - Entry Point
+ * print_alphabet_x10 - Entry Point
  * Prints alphabet x10
  * Return: Void
  */
@@ -22,5 +22,5 @@ _putchar('\n');
 x++;
 }
 }
- 
+
 
