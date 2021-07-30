@@ -18,9 +18,10 @@ if (c < 10 && c > -1)
 x = c;
 _putchar('0' + x);
 }
-else if(c < 0)
+else if (c < 0)
 {
 x = - c;
+x = x % 10;
 _putchar('0' + x);
 }
 else
