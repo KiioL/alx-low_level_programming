@@ -20,8 +20,8 @@ _putchar('0' + x);
 }
 else if (c < 0)
 {
-x = -c;
-x = x % 10;
+x = c % 10;
+x = -x;
 _putchar('0' + x);
 }
 else
