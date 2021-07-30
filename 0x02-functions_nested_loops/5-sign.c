@@ -16,22 +16,19 @@ if (n > 0)
 {
 x = 1;
  
-_putchar(44);
-_putchar(',');
+_putchar(43);
 }
 else if (n == 0)
 {
 x = 0;
 
 _putchar(48);
-_putchar(',');
 }
 else
 {
 x = -1;
 
 _putchar(45);
-_putchar(',');
 }
 
 return (x);
