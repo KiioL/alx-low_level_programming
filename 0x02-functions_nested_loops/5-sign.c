@@ -4,7 +4,7 @@
 /**
  * print_sign - Entry Point
  * Prints alphabet
- * @c: lowercase version of the parameter
+ * @n:parameter
  * Return: Always 1 or 0 (success or failure)
  */
 
