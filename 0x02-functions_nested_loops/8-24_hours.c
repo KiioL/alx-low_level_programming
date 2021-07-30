@@ -15,17 +15,17 @@ int y = 0;
 
 while (x < 25)
 {
-_putchar((x / 10) + '0');
-_putchar((x % 10) + '0');
-_putchar(58);
-x ++;
 while(y < 60)
 {
+_putchar((x / 10) + '0');
+_putchar((x / 10) + '0');
+_putchar(58);
 _putchar((y / 10) + '0');
 _putchar((y % 10) + '0');
 _putchar('\n');
-}
 y ++;
+}
+x ++;
 }
 }
 
