@@ -15,7 +15,7 @@ int x;
 if (n > 0)
 {
 x = 1;
- 
+
 _putchar(43);
 }
 else if (n == 0)
