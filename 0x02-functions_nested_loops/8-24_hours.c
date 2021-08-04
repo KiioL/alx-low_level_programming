@@ -16,7 +16,7 @@ while (x < 24)
 {
 int y = 0;
 
-while(y < 60)
+while (y < 60)
 {
 _putchar((x / 10) + '0');
 _putchar((x % 10) + '0');
@@ -24,9 +24,9 @@ _putchar(58);
 _putchar((y / 10) + '0');
 _putchar((y % 10) + '0');
 _putchar('\n');
-y ++;
+y++;
 }
-x ++;
+x++;
 }
 }
 
