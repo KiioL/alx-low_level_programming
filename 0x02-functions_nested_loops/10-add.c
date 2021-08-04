@@ -4,7 +4,8 @@
 /**
  * add - Entry Point
  * adds two numbers
- * @n, @m: lowercase version of the parameter
+ * @n: integer parameter
+ * @m: integer parameter
  * Return: Interger
  */
 
