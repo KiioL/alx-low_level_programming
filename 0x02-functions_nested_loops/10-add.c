@@ -4,7 +4,7 @@
 /**
  * add - Entry Point
  * adds two numbers
- * @void: lowercase version of the parameter
+ * @n, @m: lowercase version of the parameter
  * Return: Interger
  */
 
