@@ -12,7 +12,7 @@ void jack_bauer(void)
 {
 int x = 0;
 
-while (x < 25)
+while (x < 24)
 {
 int y = 0;
 
