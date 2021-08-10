@@ -22,7 +22,7 @@ for (z = 0; z < n; z++)
 {
 int x = 0;
 
-while (x <= z)
+while (x < z)
 {
 _putchar(32);
 x++;
