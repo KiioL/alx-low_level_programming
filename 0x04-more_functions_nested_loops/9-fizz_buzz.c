@@ -9,7 +9,7 @@
  * Return: Void
  */
 
-void fizz_buzz(void)
+int main(void)
 {
 int a;
 
@@ -32,4 +32,5 @@ else
 printf("%d ", a);
 }
 }
+return (0);
 }
